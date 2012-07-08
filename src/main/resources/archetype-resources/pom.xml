@@ -13,9 +13,9 @@
   <dependencies>
 
     <dependency>
-      <groupId>org.apache.accumulo</groupId>
-      <artifactId>accumulo</artifactId>
-      <version>1.5.0-incubating-SNAPSHOT</version>
+        <groupId>org.apache.accumulo</groupId>
+        <artifactId>accumulo-core</artifactId>
+        <version>1.4.1</version>
     </dependency>
 
     <dependency>
@@ -24,11 +24,11 @@
       <version>0.20.203.0</version>
     </dependency>
 
-	<dependency>
-        <groupId>org.apache.hadoop</groupId>
+    <dependency>
+        <groupId>org.apache.zookeeper</groupId>
         <artifactId>zookeeper</artifactId>
-        <version>3.5.0</version>
-	</dependency>
+        <version>3.3.0</version>
+    </dependency>
 
     <dependency>
         <groupId>junit</groupId>
