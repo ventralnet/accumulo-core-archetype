@@ -8,7 +8,7 @@ Purpose
 This archetype creates a maven project structure with
 
 1.  A *pom.xml* with the required dependencied defined to get a connection to Accumulo up and running.
-2.  A sample *App.java* with simple of examples of common accumulo operations (create table, read, write ...)
+2.  A sample *App.java* with simple examples of common accumulo operations (create table, read, write ...)
 
 Installation
 ------------
